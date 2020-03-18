@@ -18,22 +18,22 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
+                        <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
                         <h2>Software Engineer at Empiric Health <span>2019-present</span></h2>
-                        <p>As a Software Engineer my role is help design and develope full stack web applications that suit our clients needs.  I have helped design a full web app from scratch and deployed the signed off app using our CI pipeline.  I was the first Software Engineer hired by Empiric.  Now we are a team of 3 engineers.</p>
+                        <p>As a Software Engineer my role is help design and develope full stack web applications that suit our clients needs.  I developed a full web app from scratch and deployed the signed off app using our CI pipeline.  I was the first Software Engineer hired by Empiric to lead the engineer team.  Now we are a team of 3 engineers working on multiple applications with many features and new ideas in the development pipeline.</p>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
+                        <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Intern at Thinkful <span>2018-2019</span></h2>
-                        <p>Learned industry best practices and practical software development standards with a focus on HTML5, CSS3, JavaScript, jQuery, Node.js, React, Redux and algorithms & data structures.  Created and deployed mobile-first applications while learning new languages and frameworks by collaborating several hours every week with a senior web developer.
+                        <h2>Full Stack Apprentice at Thinkful <span>2018-2019</span></h2>
+                        <p>Followed industry best practices and practical software development standards with a focus on HTML5, CSS3, JavaScript, jQuery, Node.js, React, Redux, algorithms, and data structures.  Created and deployed mobile-first applications while learning new languages and frameworks by collaborating several hours every week with a senior web developer.
 </p>
                       </div>
                     </div>
@@ -41,7 +41,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
+                        <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
                         <h2>Technology Operations Specialist at Taylor Communications <span>2017-2019</span></h2>

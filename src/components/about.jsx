@@ -45,7 +45,7 @@ export default class About extends Component {
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-3">
                                     <span className="icon">
-                                        <i className="icon-phone3" />
+                                        <i className="icon-data" />
                                     </span>
                                     <div className="desc">
                                         <h3>Backend Development</h3>
@@ -56,7 +56,7 @@ export default class About extends Component {
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-5">
                                     <span className="icon">
-                                        <i className="icon-data" />
+                                        <i className="icon-monitor" />
                                     </span>
                                     <div className="desc">
                                         <h3>Dev Ops</h3>
