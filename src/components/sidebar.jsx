@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export default class Sidebar extends Component {
   render() {
@@ -25,12 +25,9 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                {/* <li><a href="https://www.facebook.com/dhruv.barochia" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon="coffee" /></a></li> */}
-                <li><a href="https://twitter.com/MikeyB_84" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                {/* <li><a href="https://www.instagram.com/ddbarochiya/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li> */}
                 <li><a href="https://www.linkedin.com/in/mbryantjr/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/MikeyB2" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                {/* <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li> */}
+                <li><a href="https://twitter.com/MikeyB_84" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
